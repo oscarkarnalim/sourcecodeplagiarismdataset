@@ -9,4 +9,5 @@ For further details how to use the dataset, please refer to the aforementioned p
 
 # Important remarks
 If you use this dataset, please cite the publication instead of this link. 
-@manuel-freire noted that submission 13 and 15 on the non-plagiarized submissions are alike in case-02, case-03, case-04, case-06, and case-07. Although we ensured that these students wrote the code independently, we acknowledge that there is a possibility that these students copied one another. Readers can choose to exclude one of the submissions if needed. See the details [here](https://github.com/oscarkarnalim/sourcecodeplagiarismdataset/issues/3).
+
+[@manuel-freire](https://github.com/manuel-freire) noted that submission 13 and 15 on the non-plagiarized submissions are alike in case-02, case-03, case-04, case-06, and case-07. Although we ensured that these students wrote the code independently, we acknowledge that there is a possibility that these students copied one another. Readers can choose to exclude one of the submissions if needed. See the details [here](https://github.com/oscarkarnalim/sourcecodeplagiarismdataset/issues/3).
